@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Nemo!</h1>
 <h3 align="center">I'm a programming student that likes web development.</h3>
 
-- I’m currently working on a basic tictactoe [website](https://tictactoe-ug0t.onrender.com/) for school in Svelte
+- I’m currently working on a website for the "Screaming Plant UF" school project in Svelte. [repo](https://github.com/nemoeriksson/UF-website)
 
 - I’m currently learning **Svelte, postgresql, server development**
 
